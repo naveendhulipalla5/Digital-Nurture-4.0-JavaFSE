@@ -1,0 +1,31 @@
+/* OnlineShopping.css */
+
+.shopping-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.shopping-title {
+  color: green;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.shopping-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 300px;
+  border: 1px solid #ccc;
+}
+
+.shopping-table th,
+.shopping-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.shopping-table thead {
+  background-color: #f2f2f2;
+  color: green;
+}
